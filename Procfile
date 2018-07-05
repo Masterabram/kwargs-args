@@ -1,1 +1,1 @@
-web: gunicorn login_app:kisumu_app
+web: gunicorn login_app:app
